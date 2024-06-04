@@ -1,10 +1,5 @@
 # OpenCV-Glass-Bottle-Counter
 
-
-Sure! Here's a detailed README file for your AI-based Object Detection project for the manufacturing industry:
-
----
-
 # AI-based Object Detection for Manufacturing Industry
 
 ## Overview
